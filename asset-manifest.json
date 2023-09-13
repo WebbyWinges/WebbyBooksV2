@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WebbyBooksV2/static/css/main.a39d6d22.css",
+    "main.js": "/WebbyBooksV2/static/js/main.c45154c2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/WebbyBooksV2/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/WebbyBooksV2/index.html",
+    "main.a39d6d22.css.map": "/WebbyBooksV2/static/css/main.a39d6d22.css.map",
+    "main.c45154c2.js.map": "/WebbyBooksV2/static/js/main.c45154c2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/WebbyBooksV2/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a39d6d22.css",
+    "static/js/main.c45154c2.js"
+  ]
+}
